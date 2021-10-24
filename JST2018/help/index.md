@@ -53,3 +53,8 @@
 
 ジャーナル一覧にあるものをScimagoの分野分類に従って数えたものです。
 
+
+# 利用しているデータソース
+
+- [REST API FOR COCI, THE OPENCITATIONS INDEX OF CROSSREF OPEN DOI-TO-DOI REFERENCES](https://opencitations.net/index/coci/api/v1), retrieved 2021-09-24.
+- [Scimago Journal & Country Rank](http://www.scimagojr.com), retrieved 2021-09-12.
