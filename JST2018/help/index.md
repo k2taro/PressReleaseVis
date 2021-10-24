@@ -5,6 +5,8 @@
 論文の雑誌情報は、[Scimago Journal & Country Rank](https://www.scimagojr.com/)を利用しています。  
 なお、本分析の内容はプレスリリース元の各研究機関とは一切の関係はありません。  
 
+![image1](../image1.png)
+
 # 各項目の説明
 
 ## 元論文情報
