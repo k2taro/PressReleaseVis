@@ -7,6 +7,8 @@
 
 ![image1](image1.png)
 
+---------------------------------------
+
 # 各項目の説明
 
 ## 元論文情報
@@ -16,6 +18,12 @@
 ## [元プレスリリース情報](#1)
 
 元のプレスリリースそのものの情報です。
+
+## データ取得日  
+
+データ取得日(COCI API)です。
+
+---------------------------------------
 
 ## 発行年ごと論文数
 
@@ -56,5 +64,5 @@
 
 # 利用しているデータソース
 
-- [REST API FOR COCI, THE OPENCITATIONS INDEX OF CROSSREF OPEN DOI-TO-DOI REFERENCES](https://opencitations.net/index/coci/api/v1), retrieved 2021-09-24.
+- [REST API FOR COCI, THE OPENCITATIONS INDEX OF CROSSREF OPEN DOI-TO-DOI REFERENCES](https://opencitations.net/index/coci/api/v1). データ取得日はファイルごとに異なる。
 - [Scimago Journal & Country Rank](http://www.scimagojr.com), retrieved 2021-09-12.
