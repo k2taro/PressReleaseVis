@@ -1,4 +1,4 @@
-# プレスリリースの成果論文の可視化
+# プレスリリース論文の可視化
 
 [COCI](https://opencitations.net/index/coci){:target="_blank"}データを使ったテストとして、プレスリリースの成果論文を可視化。  
 2021/12/15現在は以下の2研究機関のものを作成しています。    
@@ -84,5 +84,4 @@ __分析内容はプレスリリース元の各研究機関とは一切の関係
 ## ライセンス
 本アプリケーションならびに付属の説明資料等はすべて[クリエイティブ・コモンズ国際 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ja){:target="_blank"}です。  
 クレジットを記載する際には以下のように表示していただけると助かります。
-- 「論文ランダムウォーク」(https://k2taro.github.io/scholarly-paper-randomwalk/) 松本尚也, 渡邊勝太郎
-- ”Scholarly paper Random Walk”(https://k2taro.github.io/scholarly-paper-randomwalk/). Naoya Matsumoto, Katsutaro Watanabe.
+- 「プレスリリース論文の可視化」(https://k2taro.github.io/PressReleaseVis/) 渡邊勝太郎, 松本尚也
