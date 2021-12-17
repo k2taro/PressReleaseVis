@@ -188,8 +188,11 @@
 
 ---------------------
 
-
+# 被引用数の分布(対数プロット)
+横軸=被引用数(第１世代)、縦軸=被引用論文被引用数(第２世代)を対数でプロットしたものです。  
+クリックで、Visページへ遷移することもできます。  
+__被引用数は分野によっても大きく異なるものです。この分布によって個々の成果論文の優劣を論じる意図はありません。__  
 
 <center>
-<iframe width="800" height="500" frameborder="0" scrolling="no" src="test.html"></iframe>
+<iframe width="800" height="500" frameborder="0" scrolling="no" src="riken2018_citations.html"></iframe>
 </center>
