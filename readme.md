@@ -1,5 +1,4 @@
-# PressReleaseVis
-プレスリリースを可視化
+# プレスリリースの成果論文の可視化
 
 [COCI](https://opencitations.net/index/coci){:target="_blank"}データを使ったテストとして、プレスリリースの成果論文を可視化。  
 2021/12/15現在は以下の2研究機関のものを作成しています。    
