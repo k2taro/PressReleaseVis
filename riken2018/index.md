@@ -1,7 +1,6 @@
 # 理研2018可視化テスト
 
-[理研](https://www.riken.jp/)の[プレスリリース](https://www.riken.jp/press/2021/index.html)の研究成果論文の可視化です。  
-詳細な説明は[こちら](help)  
+[理研](https://www.riken.jp/)の[プレスリリース](https://www.riken.jp/press/2021/index.html)の研究成果論文の可視化です。   
 
 
 # 一覧リスト
