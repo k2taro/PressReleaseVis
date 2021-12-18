@@ -155,7 +155,7 @@
 |[riken_2018_214](html/riken_2018_214)|2018年2月22日|[天然魚類と環境水・底泥のエコインフォマティクス](https://www.riken.jp/press/2018/20180222_3/index.html)|
 |[riken_2018_215](html/riken_2018_215)|2018年2月22日|[植物の光化学系Ⅱ複合体の形成因子を同定](https://www.riken.jp/press/2018/20180222_2/index.html)|
 |[riken_2018_216](html/riken_2018_216)|2018年2月22日|[光親和性標識法の新たな分子ツール](https://www.riken.jp/press/2018/20180222_1/index.html)|
-|[riken_2018_218](html/riken_2018_218)|2018年2月21日|[虚血性心疾患に保護効果を示す化合物を開発](https://www.riken.jp/press/2018/20180221_1/index.html)|
+|riken_2018_218|2018年2月21日|[虚血性心疾患に保護効果を示す化合物を開発](https://www.riken.jp/press/2018/20180221_1/index.html)|
 |[riken_2018_219](html/riken_2018_219)|2018年2月19日|[開放隅角緑内障に関わる新たな7遺伝子領域を同定](https://www.riken.jp/press/2018/20180219_1/index.html)|
 |[riken_2018_221](html/riken_2018_221)|2018年2月16日|[胆道がんの原因遺伝子変異と発生起源細胞を同定](https://www.riken.jp/press/2018/20180216_1/index.html)|
 |[riken_2018_222](html/riken_2018_222)|2018年2月15日|[髄膜炎菌がタンパク質に糖をつける独特な仕組み](https://www.riken.jp/press/2018/20180215_2/index.html)|
