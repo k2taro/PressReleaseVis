@@ -109,7 +109,7 @@
 |[riken_2018_154](html/riken_2018_154)|2018年5月17日|[塩耐性を強化する植物ペプチドの発見](https://www.riken.jp/press/2018/20180517_1/index.html)|
 |[riken_2018_155](html/riken_2018_155)|2018年5月16日|[赤外超短パルスレーザーの新しい増幅法を実証](https://www.riken.jp/press/2018/20180516_1/index.html)|
 |[riken_2018_156](html/riken_2018_156)|2018年5月15日|[1分子計測のデータ同化による生体分子構造ダイナミクス](https://www.riken.jp/press/2018/20180515_2/index.html)|
-|[riken_2018_157](html/riken_2018_157)|2018年5月15日|[遺伝情報に学ぶ化学触媒設計](https://www.riken.jp/press/2018/20180515_1/index.html)|
+|riken_2018_157|2018年5月15日|[遺伝情報に学ぶ化学触媒設計](https://www.riken.jp/press/2018/20180515_1/index.html)|
 |[riken_2018_159](html/riken_2018_159)|2018年5月11日|[卵子の染色体を守る新たな仕組み](https://www.riken.jp/press/2018/20180511_1/index.html)|
 |[riken_2018_160](html/riken_2018_160)|2018年5月10日|[微小タンパク質結晶から迅速に構造決定](https://www.riken.jp/press/2018/20180510_2/index.html)|
 |[riken_2018_161](html/riken_2018_161)|2018年5月10日|[腫瘍の増大に関わる糖鎖を発見](https://www.riken.jp/press/2018/20180510_1/index.html)|
