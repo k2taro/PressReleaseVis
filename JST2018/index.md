@@ -1,7 +1,6 @@
 # JSTプレスリリース2018可視化テスト
 
 [JST](https://www.jst.go.jp/)の[プレスリリース](https://www.jst.go.jp/pr/)の研究成果論文の可視化です。  
-詳細な説明は[こちら](help)  
 
 
 # 一覧リスト
