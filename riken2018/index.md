@@ -133,7 +133,7 @@
 |[riken_2018_180](html/riken_2018_180)|2018年4月13日|[真空の謎に迫る精密実験始動](https://www.riken.jp/press/2018/20180413_1/index.html)|
 |[riken_2018_182](html/riken_2018_182)|2018年4月11日|[翻訳中tRNAの網羅的解析手法を開発](https://www.riken.jp/press/2018/20180411_1/index.html)|
 |[riken_2018_184](html/riken_2018_184)|2018年4月5日|[乾燥に強くなる植物ペプチドを発見](https://www.riken.jp/press/2018/20180405_1/index.html)|
-|[riken_2018_185](html/riken_2018_185)|2018年4月4日|[多様な記憶キラーT細胞が形成される仕組みを解明](https://www.riken.jp/press/2018/20180404_1/index.html)|
+|riken_2018_185|2018年4月4日|[多様な記憶キラーT細胞が形成される仕組みを解明](https://www.riken.jp/press/2018/20180404_1/index.html)|
 |[riken_2018_186](html/riken_2018_186)|2018年4月3日|[てんかん治療薬遺伝子型検査の臨床的有用性を実証](https://www.riken.jp/press/2018/20180403_1/index.html)|
 |[riken_2018_188](html/riken_2018_188)|2018年3月29日|[温和な環境で働く人工脱窒触媒](https://www.riken.jp/press/2018/20180329_2/index.html)|
 |[riken_2018_191](html/riken_2018_191)|2018年3月26日|[ヒトの脳全体シミュレーションを可能にするアルゴリズム](https://www.riken.jp/press/2018/20180326_1/index.html)|
