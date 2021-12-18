@@ -63,7 +63,7 @@
 |[riken_2018_089](html/riken_2018_089)|2018年8月6日|[タンパク質メチル化阻害剤を評価する新手法](https://www.riken.jp/press/2018/20180806_2/index.html)|
 |[riken_2018_090](html/riken_2018_090)|2018年8月6日|[アルツハイマー病の原因遺伝子を新しく同定](https://www.riken.jp/press/2018/20180806_1/index.html)|
 |[riken_2018_094](html/riken_2018_094)|2018年8月3日|[動物間コミュニケーションの新戦略を発見](https://www.riken.jp/press/2018/20180803_1/index.html)|
-|[riken_2018_095](html/riken_2018_095)|2018年7月31日|[細胞中のタンパク質を全部光らせる](https://www.riken.jp/press/2018/20180731_3/index.html)|
+|riken_2018_095|2018年7月31日|[細胞中のタンパク質を全部光らせる](https://www.riken.jp/press/2018/20180731_3/index.html)|
 |[riken_2018_096](html/riken_2018_096)|2018年7月31日|[SACLAにより銅キューブ粒子の内部構造変化を可視化](https://www.riken.jp/press/2018/20180731_2/index.html)|
 |[riken_2018_098](html/riken_2018_098)|2018年7月30日|[疾患モデルマウス作製の効率化に成功](https://www.riken.jp/press/2018/20180730_2/index.html)|
 |[riken_2018_099](html/riken_2018_099)|2018年7月30日|[タンパク質の結晶化を実験的に診断](https://www.riken.jp/press/2018/20180730_1/index.html)|
