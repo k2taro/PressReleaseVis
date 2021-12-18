@@ -28,7 +28,7 @@
 |[JST2018_0023](html/JST2018_0023)|2月21日|[セリン代謝酵素の働きをモニタリングするセンサー分子を開発～新規の抗マラリア薬、抗がん剤候補化合物のスクリーニングへ～](https://www.jst.go.jp/pr/announce/20190221/index.html)|
 |[JST2018_0024](html/JST2018_0024)|2月20日|[微小な重力の測定を可能とする小型低雑音重力センサーを開発～重力の量子的な性質の実験的解明に期待～](https://www.jst.go.jp/pr/announce/20190220/index.html)|
 |[JST2018_0027](html/JST2018_0027)|2月15日|[温室効果ガスを有用な化学原料に転換～低温活性で長寿命な組みひも状の触媒を創成～](https://www.jst.go.jp/pr/announce/20190215/index.html)|
-|[JST2018_0028](html/JST2018_0028)|2月14日|[簡単に微生物を特定～感染症の予防に期待～](https://www.jst.go.jp/pr/announce/20190214/index.html)|
+|JST2018_0028|2月14日|[簡単に微生物を特定～感染症の予防に期待～](https://www.jst.go.jp/pr/announce/20190214/index.html)|
 |[JST2018_0031](html/JST2018_0031)|2月12日|[超高速・超指向性・完全無散逸の３拍子がそろった理想スピン流の創発と制御～弱い』トポロジカル絶縁体の世界初の実証に成功～](https://www.jst.go.jp/pr/announce/20190212-2/index.html)|
 |[JST2018_0032](html/JST2018_0032)|2月11日|[ジルコニウム奇数同位体の特異的イオン化法を開発～放射性廃棄物の減量・資源化に向けてさらに前進～](https://www.jst.go.jp/pr/announce/20190211/index.html)|
 |[JST2018_0033](html/JST2018_0033)|2月9日|[干ばつに強く、水を節約して育つコムギの開発に成功～乾燥地での食糧増産や安定供給に期待～](https://www.jst.go.jp/pr/announce/20190209/index.html)|
