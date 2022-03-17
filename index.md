@@ -8,7 +8,7 @@
   
   
 LODチャレンジ2021にて、テーマ賞　オープンサイエンス賞　を受賞しました。  
-[【プレスリリース】Linked Open Data チャレンジJapan 2021 受賞作品発表](https://2021.lodc.jp/awardPressRelease2021.html) 
+[【プレスリリース】Linked Open Data チャレンジJapan 2021 受賞作品発表](https://2021.lodc.jp/awardPressRelease2021.html)  
 授賞式での[作品紹介スライド](テーマ賞_オープンサイエンス賞_u015_3_13受賞式_u015_プレスリリース論文の可視化.pdf)
 
 
